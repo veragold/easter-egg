@@ -1,0 +1,28 @@
+{
+  "name": "easter-egg",
+  "version": "1.0.0",
+  "description": "an easter egg program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veragold/easter-egg.git"
+  },
+  "keywords": [
+    "easter",
+    "egg",
+    "hunt",
+    "game"
+  ],
+  "author": "Vera Gold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veragold/easter-egg/issues"
+  },
+  "homepage": "https://github.com/veragold/easter-egg",
+  "dependencies": {
+    "phantom-api": "^1.18.0"
+  }
+}
